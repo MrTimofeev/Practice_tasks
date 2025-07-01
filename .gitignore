@@ -5,5 +5,7 @@ __pycache__/
 *.pyc
 
 *.txt
+*.json
+*.csv
 
 !requirements.txt
