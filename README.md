@@ -18,3 +18,8 @@
 |----------|-------------------|
 | Задача 1 | [Решение](https://github.com/MrTimofeev/Practice_tasks/tree/main/Modul2/Task1) |
 | Задача 2 | [Решение](https://github.com/MrTimofeev/Practice_tasks/blob/main/Modul2/Taks2/Result_version/parser.py) |
+
+### 📌 4 Модуль
+| № задачи | Ссылка на решение |
+|----------|-------------------|
+| Задача 1 | [Решение](https://github.com/MrTimofeev/Practice_tasks/tree/main/Modul4) |
